@@ -1,0 +1,3 @@
+C:/Users/Meu pc/CLionProjects/G2Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Meu pc/CLionProjects/G2Ex1/cmake-build-debug/CMakeFiles/G2Ex1.dir
+C:/Users/Meu pc/CLionProjects/G2Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
